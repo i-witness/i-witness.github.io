@@ -1,5 +1,5 @@
 ## iWitness: who watches the watchmen?
-======================================
+=======================================================
 
 *Follow [the project on twitter](https://twitter.com/IwitnessP) for news and updates.*
 
@@ -8,11 +8,13 @@ Download [version 0.0 of our iOS Shortcut](https://www.icloud.com/shortcuts/3f41
 
 ### Mission statement
 ---------------------
-For years we have watched state and corporate interests dominate the common good in a one-sided arms race of surveilance technology.  
-CCTV and ANPR are now ubiquitous, with facial recognition in public spaces on the rise, allowing law enforcement unlimited oversight of our personal lives.  
-Monopolies like Google and Facebook track us across the internet and sell our digital selves to advertisers.  
-In a climate of rising inequality and racial injustice, we aim to enable systemic surveilance where it really should be targeted:  
-at law enforcement officers.  
+For years, govenmental and corporate interests have dominated the surveilance arms race.  
+
+CCTV and ANPR are ubiquitous, facial recognition creeps into public spaces, and everything we do online is tracked.  
+
+Digital monopolies convert our private lives into advertising revenue.  
+
+In a climate of rising inequality and injustice, we aim to develop systemic oversight where it's *really* needed.  
 
 ### What does this shortcut do?
 -------------------------------
@@ -22,6 +24,6 @@ to have your back in any interaction with officers of the law.
 Simply install the shortcut by opening the link from an appropriate device, and follow the setup instructions.  
 
 #### v1.0 (to be released)
-* Trigger the shortcut in an emergency situation using voice control (iPhone & Apple Watch) and via a home screen shortcut (iPhone).
-* Once triggered, send your location to a preset list of trusted contacts via email and SMS.
-* Record video of law enforcement officers and upload it to your iCloud, and share it with us on Twitter.
+* Trigger the shortcut in an emergency situation using voice control (iPhone & Apple Watch) and via a home screen shortcut (iPhone).  
+* Once triggered, send your location to a preset list of trusted contacts via email and SMS.  
+* Record video of law enforcement officers and upload it to your iCloud, and share it with us on Twitter.  
