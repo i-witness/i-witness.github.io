@@ -19,7 +19,7 @@ In a climate of rising inequality and injustice, we aim to develop systemic over
 ### What does this shortcut do?
 -------------------------------
 
-The [iWitness shortcut for iPhone and Apple Watch](https://www.icloud.com/shortcuts/3f4158352e7d46459b2230f677697267) (requires at least iOS 12) is designed  
+The iWitness shortcut for iPhone and Apple Watch (requires at least iOS 12) is designed  
 to have your back in an emergency.  
 
 Simply install the shortcut by opening the link an Apple device, and follow the setup instructions.  
