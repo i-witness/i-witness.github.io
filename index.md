@@ -19,8 +19,7 @@ In a climate of rising inequality and injustice, we aim to develop systemic over
 ### What does this shortcut do?
 -------------------------------
 
-The iWitness shortcut for iPhone and Apple Watch (requires at least iOS 12) is designed  
-to have your back in an emergency.  
+The iWitness shortcut for iPhone and Apple Watch is designed to have your back in an emergency.  
 
 Simply install the shortcut by opening the link an Apple device, and follow the setup instructions.  
 
