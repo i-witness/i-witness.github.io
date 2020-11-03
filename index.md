@@ -25,7 +25,7 @@ Simply install the shortcut by opening the link an Apple device, and follow the 
 
 The shortcut can be trigged either through voice control, or opening a shortcut on the home screen.  
 
-#### v1.0 (first release, not yet out)
-* Trigger the shortcut in an emergency situation using voice control (iPhone & Apple Watch) and via a home screen shortcut (iPhone).  
-* Once triggered, send your location to a preset list of trusted contacts via email and SMS.  
-* Record video of law enforcement officers and upload it to your iCloud, and share it with us on Twitter.  
+#### v1.0 (not yet released)
+* Send your current location trusted contacts via email and SMS, any time you interact with the police.  
+* Record video of your interaction and upload it to your iCloud, and share it with us on Twitter.  
+* For underage users, automatically video call a parent or guardian whenever the app is triggered.  
