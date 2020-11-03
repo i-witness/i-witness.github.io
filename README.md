@@ -1,6 +1,6 @@
 ## iWitness project
 
-An anti-racist, open-source project, developing countermeasures to police oppression.  
+An anti-racist open-source project, developing countermeasures to police oppression.  
 More coming soon.  
 
 ### Theme
