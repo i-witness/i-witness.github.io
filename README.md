@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Minimal Theme
 
 [Demo the Theme](http://orderedlist.github.com/minimal/)
@@ -12,3 +13,8 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unpor
 
 
 
+=======
+## iWitness project
+
+**UNDER CONSTRUCTION**
+>>>>>>> 4d9fc8ec46afeeefd641e4613f877682a9c1d84c
