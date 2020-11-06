@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## iWitness: who watches the watchmen?
+=======================================================
 
-You can use the [editor on GitHub](https://github.com/i-witness/i-witness.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+*Follow [the project on twitter](https://twitter.com/IwitnessP) for news and updates.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Become part of the solution to ethnic profiling and unfair policing.  
+Download [v0.0 (dummy version) of our iOS Shortcut](https://www.icloud.com/shortcuts/3f4158352e7d46459b2230f677697267) and reclaim your rights now.  
 
-### Markdown
+### Mission statement
+---------------------
+For years, govenmental and corporate interests have dominated the surveilance arms race.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+CCTV and ANPR are ubiquitous, facial recognition creeps into public spaces, and everything we do online is tracked.  
 
-```markdown
-Syntax highlighted code block
+Digital monopolies convert our private lives into advertising revenue.  
 
-# Header 1
-## Header 2
-### Header 3
+In a climate of rising inequality and injustice, we aim to develop systemic oversight where it's *really* needed.  
 
-- Bulleted
-- List
+### What does this shortcut do?
+-------------------------------
 
-1. Numbered
-2. List
+The iWitness shortcut for iPhone and Apple Watch is designed to have your back in an emergency.  
 
-**Bold** and _Italic_ and `Code` text
+Simply install the shortcut by opening the link an Apple device, and follow the setup instructions.  
 
-[Link](url) and ![Image](src)
-```
+The shortcut can be trigged either through voice control, or opening a shortcut on the home screen.  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/i-witness/i-witness.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### v1.0 (not yet released)
+* Send your current location trusted contacts via email and SMS, any time you interact with the police.  
+* Record video of your interaction and upload it to your iCloud, and share it with us on Twitter.  
+* For underage users, automatically video call a parent or guardian whenever the app is triggered.
