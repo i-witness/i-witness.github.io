@@ -1,3 +1,8 @@
+---
+title: iWitness project
+layout: default
+---
+
 # iWitness: who watches the watchmen?
 
 ## Mission statement
@@ -60,3 +65,14 @@ Show what you've done with iWitness on [Instagram](https://www.instagram.com/iwi
 ### Email
 
 Contact us for further information at <iwitness_project@icloud.com>.
+
+### Metrics
+
+Metrics are collected when the shortcut is launched.
+
+<table id="metrics-table" style="width:100%">
+  <tr>
+    <th>When was the shortcut activated?</th>
+    <th>Where was the user at?</th>
+  </tr>
+</table>

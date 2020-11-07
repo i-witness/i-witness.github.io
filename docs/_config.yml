@@ -23,7 +23,7 @@ email: iwitness_project@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   Building technology for fair and accountable policing.
 # baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://i-witness.github.io/" # the base hostname & protocol for your site
 twitter_username: iwitness_project
 github_username: i-witness
 
