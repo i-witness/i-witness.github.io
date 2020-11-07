@@ -28,10 +28,7 @@ In a world where the state keeps an eye on every citizen, this project aims to u
   such as a traffic stop, stop-and-search or border control.
 - Automatically sends SOS messages with your location to pre-configured SMS & email contacts.
 - Records video from the rear-facing camera to save locally and upload to iCloud.
-
-##### Coming soon
-
-- Quickly share recorded video via social media to connect with other users.
+- Easily share recorded video via social media to connect with other users.
 
 #### Installation instructions
 
@@ -43,9 +40,9 @@ In a world where the state keeps an eye on every citizen, this project aims to u
 6. When you run the app for the first time it will request permissions, which must be approved so everything works.
 7. To run the shortcut using Siri, simply say "Hey Siri" (or double tap the home button) followed by "Be my iWitness".
 
-#### Latest release: v0.0
+#### Latest release: v0.1
 
-[iCloud link](https://www.icloud.com/shortcuts/bf4f655f2d9b404697b9688037ed8be0)
+[iCloud link](https://www.icloud.com/shortcuts/4f763cf011454398b3ee25d635b6f2f6)
 
 ### Interactive map of user data (coming soon)
 
