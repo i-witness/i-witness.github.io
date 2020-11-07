@@ -22,12 +22,14 @@ In a world where the state keeps an eye on every citizen, this project aims to u
 
 ### "Be my iWitness" shortcut for iOS
 
+Free download using this [iCloud](https://www.icloud.com/shortcuts/4f763cf011454398b3ee25d635b6f2f6) link.
+
 #### Features
 
 - Launch using either touch or voice input to assist in any encounter with law enforcement,  
   such as a traffic stop, stop-and-search or border control.
 - Automatically sends SOS messages with your location to pre-configured SMS & email contacts.
-- Records video from the rear-facing camera to save locally and upload to iCloud.
+- Records video from the rear-facing camera to save locally or to iCloud.
 - Easily share recorded video via social media to connect with other users.
 
 #### Installation instructions
@@ -38,11 +40,7 @@ In a world where the state keeps an eye on every citizen, this project aims to u
 4. Configure the shortcut by selecting SMS & email contacts for SOS messaging.
 5. Open the shortcut details and click `Add to home screen` to create an icon in the home screen with which the shortcut can be launched.
 6. When you run the app for the first time it will request permissions, which must be approved so everything works.
-7. To run the shortcut using Siri, simply say "Hey Siri" (or double tap the home button) followed by "Be my iWitness".
-
-#### Latest release: v0.1
-
-[iCloud link](https://www.icloud.com/shortcuts/4f763cf011454398b3ee25d635b6f2f6)
+7. To run the shortcut using Siri, simply say "Hey Siri" (or double tap the home button) followed by "Be my iWitness". Take the shortcut for a test-run after installation and before actual use.
 
 ### Interactive map of user data (coming soon)
 
