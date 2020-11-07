@@ -63,11 +63,12 @@ Contact us for further information at <iwitness_project@icloud.com>.
 
 ### Metrics
 
-Metrics are collected when the shortcut is launched.
+Metrics are collected every time the shortcut is launched, to indicate the size and distribution of the user base.  
+No identifying information is collected from the user.
 
 <table id="metrics-table" style="width:100%">
   <tr>
-    <th>When was the shortcut activated?</th>
-    <th>Where was the user at?</th>
+    <th>Date & time</th>
+    <th>Location at launch</th>
   </tr>
 </table>
