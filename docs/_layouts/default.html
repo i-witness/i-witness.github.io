@@ -70,11 +70,12 @@
     ></script>
 
     <script>
-      function createMetricsRow(location, date) {
+      function createMetricsRow(location, date, nickname) {
         return `
             <tr>
                 <td>${date}</td>
                 <td>${location}</td>
+                <td>${nickname}</td>
             </tr>
             `;
       }

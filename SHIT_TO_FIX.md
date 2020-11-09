@@ -1,0 +1,4 @@
+- can't add text email contacts
+- cant add no contacts
+- iPhone 11 pro max: prompt for SMS contacts not appearing at first
+- instagram sharing
