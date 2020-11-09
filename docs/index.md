@@ -22,7 +22,7 @@ In a world where the state keeps an eye on every citizen, this project aims to u
 
 ### "Be my iWitness" shortcut for iOS
 
-Free download using this [iCloud](https://www.icloud.com/shortcuts/4f763cf011454398b3ee25d635b6f2f6) link.
+Free download using this [iCloud](https://www.icloud.com/shortcuts/cb0bf7829fd14f14871f7e0205284dc8) link.
 
 #### Features
 
@@ -31,6 +31,7 @@ Free download using this [iCloud](https://www.icloud.com/shortcuts/4f763cf011454
 - Automatically sends SOS messages with your location to pre-configured SMS & email contacts.
 - Records video from the rear-facing camera to save locally or to iCloud.
 - Easily share recorded video via social media to connect with other users.
+- **NEW** Add a nickname to appear in our user metrics (see below) any time you run the shortcut.
 
 #### Installation instructions
 
@@ -69,6 +70,7 @@ No identifying information is collected from the user.
 <table id="metrics-table" style="width:100%">
   <tr>
     <th>Date & time</th>
-    <th>Location at launch</th>
+    <th>Location</th>
+    <th>Nickname</th>
   </tr>
 </table>

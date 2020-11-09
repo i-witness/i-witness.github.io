@@ -91,7 +91,11 @@
             for (let i = 0; i < results.length; i++) {
               let metric = results[i];
               metricsTable.append(
-                createMetricsRow(metric.launch_location, metric.launch_date)
+                createMetricsRow(
+                  metric.launch_location,
+                  metric.launch_date,
+                  metric.nickname
+                )
               );
             }
           },
