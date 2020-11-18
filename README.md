@@ -1,8 +1,10 @@
 # iWitness project website @ GitHub pages
 
-Go to https://i-witness.github.io/ for a quick overview of the project,  
-and to download an early pre-release version of the iWitness shortcut for iOS.  
+## Features
+- See project overview.
+- Download pre-release version of the iOS shortcut.
+- Get in touch.
 
-This website is a placeholder while the *real thing* is under construction  
-at https://iwitness-app.herokuapp.com/ - go to https://github.com/i-witness/heroku-server  
-to get involved!  
+This website is a placeholder while the *real thing* is under construction:
+- Website @ https://iwitness-app.herokuapp.com/
+- Repo @ https://github.com/i-witness/heroku-server  
