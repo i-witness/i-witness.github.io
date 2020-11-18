@@ -3,4 +3,6 @@
 Go to https://i-witness.github.io/ for a quick overview of the project,  
 and to download an early pre-release version of the iWitness shortcut for iOS.  
 
-This website is a placeholder while the *real thing* is under construction.  
+This website is a placeholder while the *real thing* is under construction  
+at https://iwitness-app.herokuapp.com/ - go to https://github.com/i-witness/heroku-server  
+to get involved!  
