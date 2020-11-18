@@ -1,5 +1,6 @@
-# iWitness project
+# iWitness project website @ GitHub pages
 
-An anti-racist open-source project, aimed at developing countermeasures to police oppression.
+Go to https://i-witness.github.io/ for a quick overview of the project,  
+and to download an early pre-release version of the iWitness shortcut for iOS.  
 
-**MORE TO COME**
+This website is a placeholder while the *real thing* is under construction.  
